@@ -1,9 +1,11 @@
 # Mongohud-Config
 
+## Install Mangohud
 ```
 flatpak install mangohud
 ```
 
+## Set Enviroment Variables
 ```
 MANGOHUD=1
 ```
