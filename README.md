@@ -1,6 +1,10 @@
 # Mongohud-Config
 
 ```
+flatpak install mongohud
+```
+
+```
 MANGOHUD=1
 ```
 
